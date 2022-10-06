@@ -1,0 +1,21 @@
+
+$text: #fff;
+$accent: #ec3f3f;
+
+%futura-400{
+  font-family: 'FuturaPT-Book', sans-serif;
+  font-weight: 400;
+}
+
+%futura-600{
+  font-family: 'FuturaPT-Demi', sans-serif;
+  font-weight: 600;
+}
+
+// %radio-hidden{
+//   width: 1px;
+//   height: 1px;
+//   overflow: hidden;
+//   clip: rect(0 0 0 0);
+//   position: absolute;
+// }
